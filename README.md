@@ -1,10 +1,8 @@
 # Aysel
 
 ## About Me
-- Working on backend and cybersecurity
+- Working on IOS
 - Based in **Poland**  
-- [aykutemreyalcin.com](https://aykutemreyalcin.com)
-
 ---
 
 ## Tech Stack
@@ -13,7 +11,7 @@
 ---
 
 ## GitHub Stats
-![Aykut's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyselOzbakir&show_icons=true&theme=github_dark)
+![Aysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyselOzbakir&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyselOzbakir&layout=compact&theme=github_dark)
 
 ---

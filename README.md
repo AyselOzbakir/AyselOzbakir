@@ -1,16 +1,21 @@
-## Hi there 👋
+# Aysel
 
-<!--
-**AyselOzbakir/AyselOzbakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Working on backend and cybersecurity
+- Based in **Poland**  
+- [aykutemreyalcin.com](https://aykutemreyalcin.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,mariadb,mysql,git,linux&perline=10)](https://skillicons.dev)
+
+---
+
+## GitHub Stats
+![Aykut's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyselOzbakir&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyselOzbakir&layout=compact&theme=github_dark)
+
+---
+
+![snake gif](https://github.com/AyselOzbakir/AyselOzbakir/blob/output/github-snake-dark.svg)

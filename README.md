@@ -1,7 +1,7 @@
 # Aysel
 
 ## About Me
-- Working on IOS
+- Studying  IT
 - Based in **Poland**  
 ---
 
